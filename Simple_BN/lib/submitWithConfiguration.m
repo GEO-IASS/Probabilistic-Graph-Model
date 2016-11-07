@@ -52,7 +52,7 @@ function [email token] = promptToken(email, existingToken, tokenFile)
     end
   end
   email = 'thayvn2007@gmail.com'
-  token = 'xYDaqi2p1QrFAPQn'
+  token = 'wQZkE4StBTrhrKnH'
   # email = input('Login (email address): ', 's');
   # token = input('Token: ', 's');
 end
